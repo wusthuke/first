@@ -1,0 +1,14 @@
+approvers:
+  - DjangoPeng
+reviewers:
+  - kedou.hk
+  - hanxin.hx
+filters:
+  "**/*.java":
+    reviewers:
+      - brendandburns
+      - kedou.hk
+    approvers:
+      - bgrant0607
+      - brendandburns
+      - kedou.hk
